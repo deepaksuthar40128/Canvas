@@ -2,6 +2,7 @@
 
 ## Overview
 This project creates a simple representation of Earth using HTML canvas and JavaScript. The globe is plotted with latitude and longitude points to visually showcase locations.
+#### [video tutorial](https://www.youtube.com/watch?v=zj4UiGQLI8g)  🥺 Please hit Like button
 
 ## Features
 - **Canvas Rendering:** Utilizes HTML canvas for drawing and rendering the Earth.
